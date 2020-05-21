@@ -4,10 +4,6 @@ This is your first step.
 
 This is an _example_ of creating a scenario and running a **command**
 
-Start the cluster
-
-`minikube start`{{execute}}
-
 Install `go` 1.13
 
 `cd /usr/local`{{execute}}
