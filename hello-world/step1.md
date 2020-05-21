@@ -10,11 +10,11 @@ Start the cluster
 
 Create the directory for `kfctl` repo
 
-`mkdir -p go/src/github.com/kubeflow` {{execute}}
+`mkdir -p go/src/github.com/kubeflow`{{execute}}
 
 Clone
-`cd go/src/github.com/kubeflow && git clone https://github.com/kubeflow/kfctl.git && cd kfctl` {{execute}}
+`cd go/src/github.com/kubeflow && git clone https://github.com/kubeflow/kfctl.git && cd kfctl`{{execute}}
 
 Build `kfctl` CLI
 
-`make build` {{execute}}
+`make build`{{execute}}
