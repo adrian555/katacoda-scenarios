@@ -2,7 +2,7 @@
   "title": "Hello World Scenario",
   "description": "Your First Scenario",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "120 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
@@ -18,7 +18,7 @@
   },
   "environment": {
     "showdashboard": true,
-    "uilayout": "terminal",
+    "uilayout": "editor+terminal",
     "uimessage1": "\u001b[32mYour interactive Bash terminal.\u001b[m\r\n",
     "icon": "fa-kubernetes",
     "dashboards": [
