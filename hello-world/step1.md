@@ -28,3 +28,9 @@ Clone
 Build `kfctl` CLI
 
 `make build`{{execute}}
+
+Deploy kubeflow with `kfctl` CLI
+
+`export PATH=~/go/src/github.com/kubeflow/kfctl/bin:$PATH`{{execute}}
+
+`mkdir ~/kfdef && cd ~/kfdef && kfctl apply -V -f https://raw.githubusercontent.com/kubeflow/manifests/master/kfdef/kfctl_k8s_istio.yaml`{{execute}}
