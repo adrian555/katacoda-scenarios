@@ -18,8 +18,8 @@
   },
   "environment": {
     "showdashboard": true,
-    "uilayout": "editor-terminal",
-    "uimessage1": "\u001b[32mYour interactive Bash terminal.\u001b[m\r\n",
+    "showide": true,
+    "uilayout": "terminal",
     "icon": "fa-kubernetes",
     "dashboards": [
       {"name": "Kubernetes Dashboard", "port": 30000},
