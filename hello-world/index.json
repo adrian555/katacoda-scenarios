@@ -27,6 +27,6 @@
     ]
   },
   "backend": {
-    "imageid": "minikube-running"
+    "imageid": "kubernetes-cluster-running:1.15"
   }
 }
