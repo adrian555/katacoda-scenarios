@@ -10,6 +10,7 @@
     }],
     "intro": {
       "text": "intro.md",
+      "code": "start.sh",
       "credits": ""
     },
     "finish": {
@@ -18,7 +19,7 @@
   },
   "environment": {
     "showdashboard": true,
-    "uilayout": "editor+terminal",
+    "uilayout": "editor-terminal",
     "uimessage1": "\u001b[32mYour interactive Bash terminal.\u001b[m\r\n",
     "icon": "fa-kubernetes",
     "dashboards": [
